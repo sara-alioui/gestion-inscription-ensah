@@ -1,0 +1,16 @@
+                      cour classe preparatoire 2
+
+
+
+AP2_S3_Algebre 3                    : Algebre quadratique
+AP2_S3_Analyse 3                    : Fonctions de plusieurs variables
+AP2_S3_Informatique 2               : Programmation C
+AP2_S3_Langues et communications 3  : TEC Francais & TEC Anglais
+AP2_S3_Mecanique 2                  : Mecanique du solide
+AP2_S3_Physique 3                   : Electrocinetique et Electromagnetisme
+AP2_S4_Analyse 4                    : Integrales et formes differentielles
+AP2_S4_Chimie 2                     : Thermochimie & Cristallochimie
+AP2_S4_Electronique                 : Electronique analogique
+AP2_S4_Informatique 3               : Outils informatique
+AP2_S4_Mathematiques appliquees     : Probabilites et statistiques descriptives & Analyse numerique
+AP2_S4_Physique 4                   : Thermodynamique et Statique des fluides

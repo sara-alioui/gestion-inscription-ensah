@@ -1,0 +1,18 @@
+                  cour intellegence artificielle et transformation degitale 1
+                  -----------------------------------------------------------
+
+
+
+TDIA1_S1_Architecture des ordinateurs et systemes d'exploitation
+TDIA1_S1_Architecture d'entreprise et transformation digitale
+TDIA1_S1_Communication Professionnelle et Soft Skills 1
+TDIA1_S1_Structure de donnees et Algorithmique avancee
+TDIA1_S1_Systemes d'Information et Bases de Donnees
+TDIA1_S1_Theorie des langages et compilation
+TDIA1_S2_Business, Marketing, and Management Principles for IT
+TDIA1_S2_Developpement Web
+TDIA1_S2_Developpement Web
+TDIA1_S2_Gestion de projets informatiques
+TDIA1_S2_Industrie de numerique
+TDIA1_S2_Programmation Oriented Objet Java
+TDIA1_S2_Programmation Python / Programmation fonctionnelle

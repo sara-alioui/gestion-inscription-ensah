@@ -1,0 +1,16 @@
+                cour genie informatique 2
+                -------------------------
+
+
+GI2_S3_Administration Systeme Linux
+GI2_S3_Apprentissage statistique
+GI2_S3_Genie logiciel et IHM
+GI2_S3_Gestion de l'entreprise
+GI2_S3_Programmation JAVA
+GI2_S3_XML et Applications Web avancees
+GI2_S4_Bases de donnees avancees
+GI2_S4_Communication professionnelle
+GI2_S4_Gestion de projet / PFA
+GI2_S4_Intelligence artificielle
+GI2_S4_Interconnexion et Administration des reseaux
+GI2_S4_Technologies distribuees

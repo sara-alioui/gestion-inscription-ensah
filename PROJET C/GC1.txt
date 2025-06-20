@@ -1,0 +1,3 @@
+GC1 BENDAHMANE Laila 10 4 1999 Marrakech 612345987 laila1999 laila.gc1@gmail.com CNEGC1001
+GC1 CHAOUACHI SALIM 25 6 2000 Rabat 613456789 omar_gc omar.gc1@gmail.com CNEGC1002 M
+GC1 MOUHOUB Ibtissam 18 3 1998 Casablanca 614234567 ibtissam98 ibtissam.gc1@gmail.com CNEGC1003

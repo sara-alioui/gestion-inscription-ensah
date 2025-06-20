@@ -1,0 +1,3 @@
+GEER1 GEER1 Imane 20 6 1999 Kenitra 613456789 imane.geer1 imane.geer1@gmail.com CNGEER1001
+GEER1 HAMZA Rachid 3 10 2000 Kenitra 615765432 rachid01 rachid.geer1@gmail.com CNGEER1002
+GEER1 LAILA Samira 19 7 2000 Fès 612345678 samira.geer1 samira.geer1@gmail.com CNGEER1003

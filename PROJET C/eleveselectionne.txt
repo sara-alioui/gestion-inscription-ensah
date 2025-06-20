@@ -1,0 +1,8 @@
+cp1 MANSOURI Omar 15 4 2001 Casablanca 612345678 omar2001! omar.cp1@gmail.com CNECP1001
+cp1 BENJELLOUN Fatima 23 8 2000 Fès 654321987 fatima2020 fatima.cp1@gmail.com CNECP1002
+cp2 EL KHATTABI Sara 8 2 2002 Tanger 612987654 sara2023 sara.cp2@gmail.com CNECP2001
+cp1 HAMDAOUI Hicham 10 1 2002 Tanger 612345678 hicham2022 hicham.cp1@gmail.com CNECP1004  
+cp1 OUAZZANI Nadia 22 3 2001 Fès 613456789 nadia2021 nadia.cp1@gmail.com CNECP1005  
+cp1 BELMADI Rachid 15 5 2000 Marrakech 614567890 rachid2000 rachid.cp1@gmail.com CNECP1006  
+cp1 LAAROUSSI Salwa 30 8 2002 Rabat 615678901 salwa2022 salwa.cp1@gmail.com CNECP1007  
+cp1 BOUZIDI Omar 7 12 2001 Casablanca 616789012 omar2001 omar.cp1@gmail.com CNECP1008  

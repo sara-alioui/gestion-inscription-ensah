@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1740296497 source:c:\users\sara alioui\desktop\projet c\projet c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<stdbool.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+

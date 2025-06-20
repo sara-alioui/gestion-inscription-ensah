@@ -1,0 +1,27 @@
+            genie enrgetique 1
+            ------------------
+
+
+
+GEER1_S1_ Combustion et pollution atmospherique
+GEER1_S1_Comptabilite et controle de gestion
+GEER1_S1_Comptabilite et controle de gestion
+GEER1_S1_Dessin industriel et Schemas
+GEE2_S4_Formation humaine
+GEER1_S1_Hydrogene vert et securite industrielle
+GEER1_S1_Management de l'energie
+GEER1_S1_Mathematiques pour l'ingenieur 1
+GEER1_S1_Mathematiques pour l'ingenieur 1
+GEER1_S1_Mathematiques pour l'ingenieur 2
+GEER1_S1_Mathematiques pour l'ingenieur 2
+GEER1_S1_Mecanique des fluides
+GEER1_S1_Mecanique des fluides
+GEER1_S1_Reseaux electriques
+GEER1_S1_Technique de communication 1
+GEER1_S1_Technique de communication 1
+GEER1_S2_Hydraulique
+GEER1_S2_Hydraulique
+GEER1_S2_Management d'entreprise
+GEER1_S2_Management d'entreprise
+GEER1_S2_Modelisation numerique 1
+GEER1_S2_Modelisation numerique 1

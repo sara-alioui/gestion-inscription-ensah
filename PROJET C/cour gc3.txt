@@ -1,0 +1,22 @@
+                 cours genie civil 3
+                 --------------------
+
+
+GC3-BPC_S5_Barrages
+GC3-BPC_S5_Conception et analyse des structures
+GC3-BPC_S5_Construction Metallique 2
+GC3-BPC_S5_Dynamique des Structures et Genie sismique
+GC3-BPC_S5_Geotechnique 3
+GC3-BPC_S5_Management de l'environnement
+GC3-BPC_S5_Physique du Batiment et structures speciales
+GC3-BPC_S5_Ponts
+GC3-BPC_S6_PFE_GC_BPC
+GC3-HYD_S5_Constructions Hydrauliques 1
+GC3-HYD_S5_Constructions Hydrauliques 2
+GC3-HYD_S5_Constructions Maritimes
+GC3-HYD_S5_Dynamique Fluviale
+GC3-HYD_S5_Gestion Durable des Ressources en Eauh
+GC3-HYD_S5_Hydraulique 2
+GC3-HYD_S5_Hydraulique Informatique
+GC3-HYD_S5_Ressources en Eau et Hydrologie
+GC3-HYD_S6_PFE_GC_HYD

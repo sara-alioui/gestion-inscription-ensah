@@ -1,0 +1,3 @@
+GEAU1 EL OUARDI 17 7 2000 Casablanca 610987654 ali00 ali.gmec3@gmail.com CNEGMEC3003
+GEAU1 EL MAHDAOUI 17 7 2000 Casablanca 610987654 ali00 ali.gmec3@gmail.com CNEGMEC3003
+GEAU1 JAZIRI Nadia 18 8 2000 Marrakech 610987654 nadia_2000 nadia.geau1@gmail.com CNEGEAU1003

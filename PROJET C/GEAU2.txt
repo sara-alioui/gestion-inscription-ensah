@@ -1,0 +1,3 @@
+GEAU2 MAHMOUDI Samira 12 10 1999 Agadir 615765432 samira_99 samira.geau2@gmail.com CNEGEAU2001
+GEAU2 RIAD Omar 5 1 1998 Kenitra 617654321 omar_geau omar.geau2@gmail.com CNEGEAU2002
+GEAU2 ASSADI Zahra 2 6 2000 Tanger 619765432 zahra_geau zahra.geau2@gmail.com CNEGEAU2003

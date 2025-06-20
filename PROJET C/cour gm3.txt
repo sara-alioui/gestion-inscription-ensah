@@ -1,0 +1,19 @@
+                         cours genie mecanique 3
+                         -----------------------
+
+
+
+
+GM3_S5_Controle des vibrations et du bruit
+GM3_S5_Gestion de production et de la qualite
+GM3_S5_Logistique / Maitrise statistique des processus
+GM3_S5_Maintenance, fiabilite & Surete de fonctionnement
+GM3_S5_Controle des vibrations et du bruit
+GM3_S5_Gestion de production et de la qualite
+GM3_S5_Logistique / Maitrise statistique des processus
+GM3_S5_Maintenance, fiabilite & Surete de fonctionnement
+GM3_S5_Management hygiene, securite, qualite et environnement
+GM3_S5_Mecanique des structures
+GM3_S5_Psychologie du travail & technique d'influence
+GM3_S5_Robotique & Intelligence artificielle
+GM3_S6_Projet de Fin d'Etude (PFE)

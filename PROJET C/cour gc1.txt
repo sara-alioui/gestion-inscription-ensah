@@ -1,0 +1,21 @@
+                   cour genie civil 1
+                   -------------------
+        
+
+
+GC1_S1_Dessin, architecture
+GC1_S1_Langues et Communication 1
+GC1_S1_Materiaux de construction
+GC1_S1_Mathematiques de l'ingenieur
+GC1_S1_Mecanique des Fluides et des Solides
+GC1_S1_Programmation evenementielle et Initiations aux bases de donnees
+GC1_S1_Resistance des Materiaux 1
+GC1_S1_Urbanisme, Topographie
+GC1_S2_Beton Arme 1
+GC1_S2_Comptabilite generale et analytique
+GC1_S2_Equation de la physique mathematiques
+GC1_S2_Geotechnique 1
+GC1_S2_Langues et Communication 2
+GC1_S2_Logistique et transport: routes 1
+GC1_S2_Probabilite Statistiques et Recherche Operationnelle
+GC1_S2_Resistance des Materiaux 2

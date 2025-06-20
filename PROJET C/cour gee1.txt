@@ -1,0 +1,24 @@
+                        genie de l eau et l environnement 1
+                        ------------------------------------
+
+
+
+GEE1_S1_Anglais | / communication I
+GEE1_S1_Biochimie / Geochimie
+GEE1_S1_Biologie pour l'ingenieur
+GEE1_S1_Biologie pour l'ingenieur
+GEE1_S1_Chimie organique, cinetique et catalyse
+GEE1_S1_Chimie pour l'ingenieur
+GEE1_S1_Communication l/Anglais |
+GEE1_S1_Mathematiques et informatiques Appliques aux Sciences de l'ingenieur
+GEE1_S1_Mecanique des fluides et hydraulique
+GEE1_S1_Mecanique des fluides et hydraulique
+GEE1_S1_Microbiologie/Biochimie
+GEE1_S1_Programmation et outils informatiques
+GEE1_S2_Biodiversite et restauration des ecosystemes
+GEE1_S2_Changements climatiques et developpement durable
+GEE1_S2_Changements climatiques et developpement durable
+GEE1_S2_Chimie appliquee a l'environnement
+GEE1_S2_Communication II/Anglais II
+GEE1_S2_Communication II/Anglais II
+GEE1_S2_Hydrologie /Hydrogeologie

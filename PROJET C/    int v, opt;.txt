@@ -1,0 +1,1 @@
+    int v, opt;     etudiant etu;     char cne_cherch 7476432 00 40239176 [20]; // Utilisatio n du CNE pour reche rcher l'‚tudiant     int trouve = 0;     char choix; ¼

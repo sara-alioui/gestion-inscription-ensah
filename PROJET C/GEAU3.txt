@@ -1,0 +1,3 @@
+GEAU3 HARIRI Imane 7 4 2000 Meknès 618432765 imane_2000 imane.geau3@gmail.com CNEGEAU3001
+GEAU3 CHAIRI Khalil 9 11 1998 Rabat 612345876 khalil_1998 khalil.geau3@gmail.com CNEGEAU3002
+GEAU3 ZAIM Omar 16 3 1999 Casablanca 619876543 omar1999 omar.geau3@gmail.com CNEGEAU3003

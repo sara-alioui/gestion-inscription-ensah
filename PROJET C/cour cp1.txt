@@ -1,0 +1,17 @@
+                   cour classe preparatoire 1
+                   --------------------------
+
+
+
+AP1_S1_Algebre 1: Algebre de base
+AP1_S1_Analyse 1 : Analyse reelle
+AP1_S1_Informatique 1: Initiation a l'informatique
+AP1_S1_Langues et communications 1: TEC Francais & TEC Anglais
+AP1_S1_Mecanique 1 : Mecanique du point
+AP1_S1_Physique 1 : Electrostatique et magnetostatique
+AP1_S2_Algebre 2: Algebre lineaire
+AP1_S2_Analyse 2: Equations differentielles et series
+AP1_S2_Chimie 1 : Atomistique & Liaisons chimiques
+AP1_S2_Geologie : Geologie generale
+AP1_S2_Langues et communications 2: TEC Francais & TEC Anglais
+AP1_S2_Physique 2 : Optique

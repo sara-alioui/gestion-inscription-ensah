@@ -1,0 +1,28 @@
+               cour genie informatique 3
+               -------------------------
+
+GI3 BI_S1_Analyse et conception des systemes decisionnels
+GI3 BI_S1_Business Intelligence et Veille Strategique
+GI3 BI_S1_Data Mining
+GI3 BI_S1_Enterprise Resource Planning ERP
+GI3 BI_S1_Entreprenariat 3
+GI3 BI_S1_Ingenierie de l'information et des connaissances
+GI3 BI_S2_Projet de Fin d'Annee (PFE)
+GI3 GL_S1_Developpement des applications mobiles
+GI3 GL_S1_Enterprise Resource Planning ERP
+GI3 GL_S1_Entreprenariat 3
+GI3 GL_S1_Ingenierie logicielle, Qualite, Test et Integration
+GI3 GL_S1_Systeme embarque et temps reel
+GI3 GL_S1_Virtualisation et Cloud Computing
+GI3 GL_S2_Projet de Fin d'Annee (PFE)
+GI3 MI_S1_Data Mining
+GI3 MI_S1_Deep learning
+GI3 MI_S1_Entreprenariat 3
+GI3 MI_S1_Informatique Graphique
+GI3 MI_S1_Traitement du signal
+GI3 MI_S1_Vision par ordinateur sous OpenCV
+GI3 MI_S2_Projet de Fin d'Annee (PFE)
+GI3-GL_S5_Cryptographie et Securite Informatique
+GI3-GL_S5_Developpement des applications mobiles
+GI3-GL_S5_Ingenierie des systemes temps reel et embarques
+GI3-GL_S5_Ingenierie et Qualite logiciel

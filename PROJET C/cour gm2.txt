@@ -1,0 +1,22 @@
+             cours genie mecaique 2
+             ----------------------
+
+
+
+
+
+GM2_S3_Fabrication mecanique
+GM2_S3_Gestion commerciale / Management de projet technique
+GM2_S3_Mecanique de la rupture / Endommagement
+GM2_S3_Metrologie / CND
+GM2_S3_Modelisation numerique & Simulation
+GM2_S3_TEC / Anglais ||
+GM2_S3_Transmission de puissance / Elements de machines
+GM2_S4_Choix de materiaux pour la conception mecanique
+GM2_S4_CMAO
+GM2_S4_Construction mecanique
+GM2_S4_Entreprenariat & Leadership
+GM2_S4_Innovation et creativite / Analyse fonctionnelle
+GM2_S4_RDM avancee
+GM2_S4_Transferts thermiques / Machines energetiques
+GM2_S4_Tribologie et lubrification

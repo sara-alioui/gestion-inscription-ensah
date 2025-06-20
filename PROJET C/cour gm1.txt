@@ -1,0 +1,13 @@
+                    cours genie mecanique 1
+                    ------------------------
+
+
+GM1_S1_Electronique / Electrotechnique
+GM1_S1_Mathematiques pour l'ingenieur
+GM1_S1_Mecanique des Fluides
+GM1_S1_Mecanique des milieux continus / Elasticite lineaire
+GM1_S1_RDM
+GM1_S1_Strategie de gestion / Organisation des entreprises
+GM1_S1_TEC / Anglais I
+GM1_S1_Vibrations / Ondes
+GM1_S2_Analyse numerique / Programmation avancee

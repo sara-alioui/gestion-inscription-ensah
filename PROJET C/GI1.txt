@@ -1,0 +1,3 @@
+GI1 KARIM Mohammed 14 6 1998 Marrakech 610234567 mohn123 mohammed.gi1@gmail.com CNEGI1001 M
+GI1 NASSIRI Samira 12 10 2001 Tétouan 618567234 samira2001 samira.gi1@gmail.com CNEGI1002
+GI1 ZAHRAOUI Adil 20 9 2000 ribat el kheir 611234987 adil_pass

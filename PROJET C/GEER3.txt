@@ -1,0 +1,3 @@
+GEER3 KHAYATI Omar 18 1 2001 Agadir 617987654 omar.geer3 omar.geer3@gmail.com CNGEER3001
+GEER3 SAIDI Nadia 4 8 1998 Fès 610234765 nadia.geer3 nadia.geer3@gmail.com CNGEER3002
+GEER3 ZINEB Ali 22 12 2000 Rabat 613456789 ali.geer3 ali.geer3@gmail.com CNGEER3003

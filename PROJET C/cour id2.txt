@@ -1,0 +1,26 @@
+                          cour ingenierie des donnees2
+                          ----------------------------
+
+
+1D2_S3_Architecture Logicielle et UML
+ID2_S3_Architecture Logicielle et UML
+1D2_S3_Bases de donnees avancees
+1D2_S3_Bases de donnees avancees
+1D2_S3_Communication Professionnelle et Soft Skills -II-102_S3_Communication Professionnelle et Soft Skills II
+1D2_S3_Fondements du Big Data
+1D2_S3_Fondements du Big data
+ID2_S3_Intelligence Artificielle | - Machine Learning
+ID2_S3_Modelisation Stochastique / Techniques Mathematiques d'Optimisation
+ID2_S3_Programmation Python / Programmation fonctionnelle
+ID2_S4_Applications Web avancees avec Java et Spring
+1D2_S4_Big Data Avancees
+ID2_S4_Big Data Avancees
+ID2_S4_Data Warehouse et Data Lake
+1D2_S4_Data Warehouse et Data Lake
+ID2_S4_Entreprenariat II
+ID2_S4_Entreprenariat II
+ID2_S4_Intelligence Artificielle II - Deep Learning
+ID2_S4_Intelligence Artificielle II - Deep Learning
+ID2_S4_Programmation et architecture Parallele
+ID2_S4_Traitement Automatique de Langue (TAL) naturelle et ses applications
+ID2_S4_Traitement Automatique de Langue (TAL) naturelle et ses applications

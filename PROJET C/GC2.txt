@@ -1,0 +1,3 @@
+GC2 AYADI Hassan 2 5 1998 Fès 612876543 hassan_98 hassan.gc2@gmail.com CNEGC2001
+GC2 AIDOUN Sanaa 13 8 2000 Agadir 615987654 sanaa_2000 sanaa.gc2@gmail.com CNEGC2002
+GC2 FASSI Rania 27 10 1999 Oujda 618234765 rania_99 rania.gc2@gmail.com CNEGC2003

@@ -1,0 +1,20 @@
+                   cour ingenierie des donees 3
+                   ----------------------------
+
+
+
+
+ID3_S5_Big Data Visualisation
+ID3_S5_Big Data Visualisation et Cloud Computing
+ID3_S5_Business Intelligence et Veille Strategique
+1D3_S5_Business Intelligence et Veille Strategique
+ID3_S5_Entreprenariat III
+1D3_S5_Entreprenariat III
+1D3_S5_Social Network Mining
+ID3_S5_Social Network Mining
+ID3_S5_Transformation digitale
+ID3_S5_Transformation digitale
+ID3_S5_Web Marketing et CRM
+1D3_S5_Web Marketing et CRM
+ID3_S6_Projet de Fin d'Annee (PFE)
+ID3_S6_Projet de Fin d'Annee (PFE)

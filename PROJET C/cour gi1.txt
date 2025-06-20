@@ -1,0 +1,39 @@
+                                 cour genie informatique 1
+                                 -------------------------
+
+
+
+GI1_S1_Architecture des ordinateurs
+GI1_S1_Langage C avance et structures de donnees
+GI1_S1_Langues et Communication
+GI1_S1 Langues et Communication Professionnelles 1
+GI1_S1_Methodes numeriques pour l'ingenieur et Analyse des Donnees
+GI1_S1_Recherche operationnelle et theorie des graphes
+GI1_S1_Reseaux informatiques
+GI1_S1_Reseaux informatiques
+GI1_S1_Structure de donnees et programmation avancee en C
+GI1_S1_Systemes d'Information et Bases de Donnees
+GI1_S1_Systemes d'Information et Bases de Donnees Relationnelles
+GI1_S2_Algorithmique Avancee et complexite
+GI1_S2_Algorithmique avancee et complexite
+GI1_S2_Architecture Logicielle et UML
+GI1_S2_Developpement d'applications Web
+GI1_S2_Entreprenariat 1 & Atelier Start up
+GI1_S2_Modelisation avec UML
+GI1_S2_Programmation Orientee Objet C++
+GI1_S2_Programmation Orientee Objet en C++
+GI1_S2_Recherche Operationnelle
+GI1_S2_Techniques et economie de l'entreprise
+GI1_S2_Theorie des langages et compilation
+GI1_S2_Web1: Technologies de Web et PHP5
+GI2_S1_Administration des Bases de donnees Avancees
+GI2_S1_Administration reseaux et systemes
+GI2_S1_Langues et Communication Professionnelle 2 & Soft Skills
+GI2_S1_Linux et programmation systeme
+GI2_S1_Programmation Java Avancee
+GI2_S1_Python pour les sciences de donnees
+GI2_S2_Crypto-systemes et securite Informatique
+GI2_S2_Entreprenariat 2
+GI2_S2_Frameworks Java EE avances et .Net
+GI2_S2_Gestion de projet et Genie logiciel
+GI2_S2_Machine Learning

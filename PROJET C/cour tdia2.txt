@@ -1,0 +1,19 @@
+                  cour intellegence artificielle et transformation degitale 2
+                  -----------------------------------------------------------
+
+
+
+
+
+TDIA2_S3_Architecture Logicielle et UML
+TDIA2_S3_Bases de Intelligence Artificielle
+TDIA2_S3_Cartographie des systemes d'information
+TDIA2_S3_Cloud computing
+TDIA2_S3_Communication Professionnelle et Soft Skills 2
+TDIA2_S3_Gestion de projets digitaux
+TDIA2_S4_Applications de l'Intelligence Artificielle
+TDIA2_S4_Big data
+TDIA2_S4_Cyber Security
+TDIA2_S4_Droit et securite des donnees
+TDIA2_S4_Entreprenariat
+TDIA2_S4_Ingestion et stockage des donnees

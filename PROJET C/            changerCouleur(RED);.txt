@@ -1,0 +1,1 @@
+.txt             affiche rTitreEncadre("ERRE 7476432 00 40239176 R D'OUVERTURE DES F ICHIERS");             changerCouleur(BLACK);             printf("\n\t\t\tImpossible d'ouvrir les fichiers. Veuillez r‚essayer.\n");             exit(1); ¼

@@ -1,0 +1,16 @@
+les filieres dans l'ecole :
+
+
+
+       \_les filiere de departement informatique mathematique_/
+***ingenierie des donnes***
+***genie informatique***
+***transformation degital et intellegence artificielle***
+
+
+
+       \_les filiere de departement physique chimique_/
+***Genie civil***
+***genie mecanique***
+***ginie de l eau et de l environnement***
+***genie energetique***

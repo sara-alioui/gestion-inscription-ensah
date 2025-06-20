@@ -1,0 +1,3 @@
+TDIA1 EL BOUHARI 22 12 2000 Rabat 613456789 ali.geer3 ali.geer3@gmail.com CNGEER3003
+TDIA1 KHALIL Rachid 4 9 1999 Rabat 617234567 rachid.tdia1 rachid.tdia1@gmail.com CNDTIA1002
+TDIA1 SAADI Yassir 8 10 2000 Casablanca 619876543 yassir.tdia1 yassir.tdia1@gmail.com CNDTIA1003

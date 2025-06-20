@@ -1,0 +1,3 @@
+GMEC2 ALAMI Mouad 3 12 1998 Oujda 616567234 mouad99 mouad.gmec2@gmail.com CNEGMEC2001
+GMEC2 MELLAL Amine 19 7 2000 Agadir 618765432 amine00 amine.gmec2@gmail.com CNEGMEC2002
+GMEC2 MOUJAHID Salma 28 2 1999 Tanger 617432876 salma99 salma.gmec2@gmail.com CNEGMEC2003
